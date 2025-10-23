@@ -10,7 +10,7 @@ Welcome to my GitHub profile. I’m a 17-year-old developer who likes building, 
 - 💻 I create **software** and **automation bots** for all kinds of tasks.  
 - 📱 I spend way too much time porting ROMs, overclocking, and customizing Android.  
 - 🧩 Languages: `C++` • `Python`  
-- ⚡ Also known as *Chopped Twin* ✌️  
+- ⚡*Chopped Twin* ✌️  
 - 🎮 I play **Genshin Impact** (probably too much).  
 - 🌿 What’s grass? Still figuring that out.  
 - 🎵 Music just hits hard — it’s part of the workflow.  
