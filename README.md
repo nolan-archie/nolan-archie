@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<# 👋 Hey there, I’m Nolan  
+👋 Hey there, I’m Nolan  
 
 Welcome to my GitHub profile. I’m a 17-year-old developer who likes building, breaking, and fixing things — mostly in that order.
 
