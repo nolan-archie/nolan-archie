@@ -49,6 +49,4 @@ Welcome to my GitHub profile. I’m a 17-year-old developer who likes building, 
 
 ![Profile views](https://komarev.com/ghpvc/?username=nolan-archie&label=Profile%20views&color=blueviolet)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nolan-archie&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nolan-archie&layout=compact&theme=tokyonight)
-!--
 
