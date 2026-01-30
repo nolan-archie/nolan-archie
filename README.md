@@ -21,7 +21,7 @@ Hey! I’m **Nolan**, a 17-year-old developer passionate about building, breakin
 
 ### Operating Systems
 - <img src="https://logo.svgcdn.com/cib/arch-linux-dark.png" width="24"> **Arch Linux**  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/One-ui_logo.svg" width="24"> **One UI 7**
+- <img src="https://www.samsung.com/global/galaxy/apps/one-ui/images/one-ui_logo.svg" width="24"> **One UI 7**
 
 ---
 
