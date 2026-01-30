@@ -14,18 +14,14 @@ Hey! I’m **Nolan**, a 17-year-old developer passionate about building, breakin
 ---
 
 ### Devices I Use
-| Device | Purpose |
-|--------|---------|
-| Samsung Galaxy A16 | ROM testing, mods, and experiments |
-| HP EliteBook 840 G5 | Main development machine |
+- **Samsung Galaxy A16** – ROM testing, mods, and experiments  
+- **HP EliteBook 840 G5** – Main development machine  
 
 ---
 
 ### Operating Systems
-| OS | Logo |
-|----|------|
-| Arch Linux | ![Arch Linux](https://upload.wikimedia.org/wikipedia/commons/a/ab/Arch_Linux_logo.svg) |
-| One UI 7 | ![One UI 7](https://upload.wikimedia.org/wikipedia/commons/3/3b/Samsung_One_UI_Logo.svg) |
+- **Arch Linux** ![Arch Linux](https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebd6c8a3c8d1.png)  
+- **Samsung One UI 7** ![One UI 7](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Samsung_One_UI_Logo.svg/512px-Samsung_One_UI_Logo.svg.png)  
 
 ---
 
