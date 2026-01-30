@@ -1,3 +1,5 @@
+## Hi there
+
 Hey! I’m **Nolan**, a 17-year-old developer passionate about building, breaking, and fixing things — usually in that order.  
 
 ---
@@ -16,6 +18,14 @@ Hey! I’m **Nolan**, a 17-year-old developer passionate about building, breakin
 |--------|---------|
 | Samsung Galaxy A16 | ROM testing, mods, and experiments |
 | HP EliteBook 840 G5 | Main development machine |
+
+---
+
+### Operating Systems
+| OS | Logo |
+|----|------|
+| Arch Linux | ![Arch Linux](https://upload.wikimedia.org/wikipedia/commons/a/ab/Arch_Linux_logo.svg) |
+| One UI 7 | ![One UI 7](https://upload.wikimedia.org/wikipedia/commons/3/3b/Samsung_One_UI_Logo.svg) |
 
 ---
 
@@ -38,7 +48,7 @@ Hey! I’m **Nolan**, a 17-year-old developer passionate about building, breakin
 - I prefer minimal, fast setups — if it’s slow, I’ll optimize it.  
 - Coding mostly happens at unusual hours with music in the background.  
 - I experiment more than I plan, but it usually works out.
-  
+
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=nolan-archie&label=Profile%20views&color=blueviolet)
