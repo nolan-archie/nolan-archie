@@ -49,3 +49,5 @@ Hey! I’m **Nolan**, a 17-year-old developer passionate about building, breakin
 
 ![Profile views](https://komarev.com/ghpvc/?username=nolan-archie&label=Profile%20views&color=blueviolet)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nolan-archie&theme=tokyonight)
+[![Contributions](https://ghchart.rshah.org/nolan-archie)](https://github.com/nolan-archie)
+
