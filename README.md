@@ -1,7 +1,7 @@
 <div align="center">
 
 ⋆˚࿔ ✦ Nolan Granger ✦ ࿔˚⋆  
-**developer • 17 y/o • builder & tinkerer**  
+**developer • 18 y/o • builder & tinkerer**  
 
 English | Tech | Experiments
 
