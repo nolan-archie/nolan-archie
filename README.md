@@ -15,11 +15,11 @@ English | Tech | Experiments
 <tr>
 <td>
 
-💼 student  
-💻 python • c++  
-🛠 automation • system tools  
-📱 android modding • ROM testing  
-🖥 arch linux  
+student  
+python • c++  
+ automation • system tools  
+ android modding • ROM testing  
+arch linux  
 
 </td>
 <td>
