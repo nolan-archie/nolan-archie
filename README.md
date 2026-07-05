@@ -46,12 +46,12 @@ I like projects that require patience, debugging, reverse engineering, and a wil
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nolan-archie&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" alt="Nolan Archie's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolan-archie&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nolan-archie&theme=github_dark" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nolan-archie&theme=github_dark" alt="Most used languages" />
 
 <br />
 
-<img height="165" src="https://streak-stats.demolab.com?user=nolan-archie&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=nolan-archie&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 
 </div>
 
